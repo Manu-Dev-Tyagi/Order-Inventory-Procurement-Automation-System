@@ -1,5 +1,5 @@
 
-![Uploading Screenshot 2026-01-09 at 11.26.12 PM.png…]()
+<img width="981" height="878" alt="Screenshot 2026-01-11 at 10 26 31 AM" src="https://github.com/user-attachments/assets/6275ca1e-0c06-4fe3-a3f9-735528c54ff0" />
 
 COMPLETE PROJECT FLOW (SIMPLE POINTS)
 1️⃣ Customer Places an Order
